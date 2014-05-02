@@ -6,6 +6,7 @@
 
         return {
             restrict: 'A',
+            require: 'ngSrc',
             compile: function($element, attr) {
                 var fn = $parse(attr['ngLoad']);
 

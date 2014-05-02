@@ -25,7 +25,7 @@ Add a `<script>` to your html
 var yourModule = angular.module("yourModule", ['ngLoad']);
 ```
 
-You can add the `ng-load` directive in `<img>` and `<script>` tags
+You can add the `ng-load` directive in `<img>` tags
 ```html
 <img src="beautifulImage.jpg" ng-load="someFunction()" alt="" />
 ````
