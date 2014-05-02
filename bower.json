@@ -1,0 +1,27 @@
+{
+  "name": "ng-load",
+  "version": "1.0.0",
+  "homepage": "https://github.com/andrefarzat/ng-load",
+  "authors": [
+    "Andre Farzat <andrefarzat@gmail.com>"
+  ],
+  "description": "Angular ngLoad directive",
+  "main": "ng-load.js",
+  "keywords": [
+    "angular",
+    "ngLoad",
+    "ng-load",
+    "directive"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.16"
+  }
+}
