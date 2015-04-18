@@ -1,6 +1,6 @@
 {
   "name": "ng-load",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "homepage": "https://github.com/andrefarzat/ng-load",
   "authors": [
     "Andre Farzat <andrefarzat@gmail.com>"
@@ -22,6 +22,6 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "~1.2.16"
+    "angular": "*"
   }
 }

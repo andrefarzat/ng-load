@@ -1,6 +1,6 @@
 {
   "name": "ng-load",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Angular ngLoad directive",
   "main": "ng-load.js",
   "scripts": {
